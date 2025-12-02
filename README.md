@@ -13,3 +13,12 @@ Only available on Windows for now.
 
 ## Build ##
 Open the solution via Visual Studio, build and run.
+
+## Requirements
+
+* VRAM: ~10 or more
+* RAM: 32–64 GB recommended
+* Disk: +50 GB depending on quantization
+* CPU-only: works but moves like a brick
+* Ollama: use a recent version
+* Windows 10/11
